@@ -1,0 +1,23 @@
+{
+  "name": "@taylorpzreal/github-package-test",
+  "version": "1.0.0",
+  "description": "@taylorpzreal/github-package-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TaylorPzreal/github-package-test.git"
+  },
+  "keywords": [
+    "github",
+    "packages"
+  ],
+  "author": "TaylorPzreal",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TaylorPzreal/github-package-test/issues"
+  },
+  "homepage": "https://github.com/TaylorPzreal/github-package-test#readme"
+}
