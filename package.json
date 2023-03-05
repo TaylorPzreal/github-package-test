@@ -22,5 +22,8 @@
   "homepage": "https://github.com/TaylorPzreal/github-package-test#readme",
   "publishConfig": {
     "@taylorpzreal:registry": "https://npm.pkg.github.com"
+  },
+  "dependencies": {
+    "@taylorpzreal/github-package-test": "1.0.0"
   }
 }
